@@ -120,7 +120,7 @@ dir
 
 **Goal:** Put real HTML/CSS content in the files.
 
-1. Open GitHub repo: [`Week-2---Git-GitHub-Assignment`](https://github.com/pravinmishraaws/Week-2---Git-GitHub-Assignment)
+1. Open GitHub repo: [`dmi-codetrack-starter-assignment`](https://github.com/pravinmishraaws/dmi-codetrack-starter-assignment)
 2. Copy content from their `index.html` and `style.css`
 3. Paste into your local files
 

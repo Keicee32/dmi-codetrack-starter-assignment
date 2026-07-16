@@ -2,8 +2,8 @@
 
 This assignment is part of the **DevOps Micro Internship (#DMIByPravinMishra)** led by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/).
 
-📺 Full learning content is available on YouTube:
-👉 [DevOps for Beginners – Free Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89)
+🎓 Enrollment, cohort dates, and the full curriculum are on [University](https://university.pravinmishra.com?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack).
+💬 Questions along the way? Join the [DMI Discord](https://discord.pravinmishra.com/?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack).
 
 This repo is the **starter UI** for the assignment below — `index.html` and `style.css` here are the files you'll copy into your own `CodeTrack` project in Task 3.
 
@@ -293,5 +293,5 @@ Submit:
 ## Acknowledgment
 
 This assignment is part of the **DevOps Micro Internship (#DMIByPravinMishra)** by **Pravin Mishra**.
-For complete lectures and hands-on practice, check the YouTube playlist:
-👉 [DevOps for Beginners – Free Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89)
+
+[University](https://university.pravinmishra.com?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack) · [DMI Student Hub](https://dmi.pravinmishra.com?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack) · [Pravin Mishra](https://pravinmishra.com?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack) · [Discord](https://discord.pravinmishra.com/?utm_source=dmi&utm_medium=readme&utm_campaign=week4-codetrack)

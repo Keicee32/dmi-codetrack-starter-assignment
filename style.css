@@ -33,7 +33,7 @@ body {
 }
 
 body {
-    font-family: "Inter", system-ui, -apple-system, Segoe UI, Arial, sans-serif;
+    font-family: "Mulish", system-ui, -apple-system, Segoe UI, Arial, sans-serif;
     color: var(--ink);
     background: var(--bg);
     line-height: 1.6;

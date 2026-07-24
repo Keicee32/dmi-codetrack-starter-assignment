@@ -1,4 +1,4 @@
-# Git Assignment – DevOps for Beginners
+# Git Assignment – DevOps Micro Internship
 
 This assignment is part of the **DevOps Micro Internship (#DMIByPravinMishra)** led by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/).
 
